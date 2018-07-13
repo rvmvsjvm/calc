@@ -1,12 +1,9 @@
 fuction add5(){
 add two numbers;
 }
-func (){
-}
-dsgf
-dfsdsf
 dsfdsf
-
+dskhjfhdskjf
+sdfdsfds
 
 dsfdsf
 
